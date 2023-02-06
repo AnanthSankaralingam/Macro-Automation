@@ -1,0 +1,1 @@
+cscript macro.vbs "C:\Users\shank\Desktop\Macro Automation\Copy of Copy of Insurance_Data1.xlsm"
